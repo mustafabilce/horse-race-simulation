@@ -19,11 +19,11 @@ $ yarn generate
 
 ## Test Setup
 
-Unit tests for the project were written using [Cypress]([https://nuxtjs.org](https://www.cypress.io/)).
+Unit tests for the project were written using [Cypress]([https://nuxtjs.org/docs/2.x/directory-structure/components](https://www.cypress.io/)).
 
 ```bash
 # with this command, you can access and run tests in Cypress Test Runner in GUI mode.
-$ yarn test:e2e"
+$ yarn test:e2e
 
 # you can start cypress tests with this command.
 $ yarn test:e2e:run
