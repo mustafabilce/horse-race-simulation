@@ -16,17 +16,17 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
+
 ## Test Setup
 
 Unit tests for the project were written using [Cypress]([https://nuxtjs.org](https://www.cypress.io/)).
 
 ```bash
-# With this command, you can access and run tests in Cypress Test Runner in GUI mode.
+# with this command, you can access and run tests in Cypress Test Runner in GUI mode.
 $ yarn test:e2e"
 
-# You can start cypress tests with this command.
+# you can start cypress tests with this command.
 $ yarn test:e2e:run
-
 ```
 
 
